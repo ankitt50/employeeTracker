@@ -10,7 +10,7 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Repository;
 import com.luv2code.springboot.cruddemo.entity.Employee;
 
-@Repository
+//@Repository
 public class EmployeeDAOHibernateImpl implements EmployeeDAO {
 
 	
