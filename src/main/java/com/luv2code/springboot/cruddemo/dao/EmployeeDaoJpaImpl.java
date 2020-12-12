@@ -10,7 +10,7 @@ import org.springframework.stereotype.Repository;
 
 import com.luv2code.springboot.cruddemo.entity.Employee;
 
-@Repository
+//@Repository
 public class EmployeeDaoJpaImpl implements EmployeeDAO {
 	
 	
